@@ -5,7 +5,8 @@ Steps Used Before Model Building: Scatter Plot Analysis, Histogram Plots, Box-Pl
 
 Tests Used to Validate Models: Non-Constant Variance Test, Variance Inflation Factor Test, Durbin Watson Test, Normal Q-Q Plot Test, Cook's Distance Plot
 
-Results:
+Final Model Results:
+
 <img width="246" alt="image" src="https://user-images.githubusercontent.com/97738294/200348738-55c2acf9-1268-4085-95bf-269423181dbb.png">
 
 
